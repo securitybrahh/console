@@ -8,4 +8,6 @@ export interface App {
     version_code: number;
     version_name: string;
     short_description: string;
+    long_description: string;
+    website: string;
 }
